@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LABA_5.1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LABA_5_1_jar</output-path>
+    <root id="archive" name="LABA_5.1.jar">
+      <element id="module-output" name="LABA_5.1" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/2.0.0-Beta4/kotlin-stdlib-2.0.0-Beta4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk7/2.0.0-Beta4/kotlin-stdlib-jdk7-2.0.0-Beta4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk8/2.0.0-Beta4/kotlin-stdlib-jdk8-2.0.0-Beta4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

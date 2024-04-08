@@ -1,0 +1,1 @@
+personClasses.Person{id=1, name='qwe', coordinates=personClasses.Coordinates@377dca04, creationDate=2024-03-22T16:12:48.197175200+03:00[Europe/Moscow], height=13, birthday=Sat Nov 11 00:00:00 MSK 2000, hairColor=GREEN, nationality=RUSSIA, location=personClasses.Location{x=1, y=1, name='1'}}
